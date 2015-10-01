@@ -34,8 +34,6 @@
 #ifndef __FREETYPE_GL_H__
 #define __FREETYPE_GL_H__
 
-#define GLEW_STATIC
-
 /* Mandatory */
 #include "opengl.h"
 #include "vec234.h"

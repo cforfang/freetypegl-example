@@ -33,6 +33,8 @@
 #include <stdio.h>
 #include <wchar.h>
 
+#define GLEW_STATIC
+
 #include "freetype-gl.h"
 
 #include "vertex-buffer.h"
